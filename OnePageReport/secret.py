@@ -1,3 +1,3 @@
 # Parâmetros contento informações críticas
-remetente = 'ricardo.analytics.python@gmail.com'
-senha = 'kfvkcwsaeqjfdqwz'
+remetente = 'E-MAIL DO REMETENTE'
+senha = 'SENHA DE LIBERAÇÃO DO CÓDIGO PARA UTILIZADO E-MAIL DO GOOGLE'
