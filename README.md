@@ -19,8 +19,8 @@ Lista de Projetos:
 **3 - Cotações de Moedas**
 	Este projeto teve a motivação no aprendizado no consumo de APIs de finanças coletando dados de cotações de moedas e envio destas cotações via SMS utilizando o Twilio.
 
-**4 - Dashboard Lorem Eletro**
-	Este projeto teve a motivação da construção de um Dashboard de uma empresa fictícia para a área de vendas.
+**4 - Relatório Lorem Eletro**
+	Este projeto teve a motivação da construção de um Relatório de uma empresa fictícia para a área de vendas.
 	Foram utilizados conhecimentos em PowerBI para relacionar as tabelas, formulas DAX e M para a construção de medidas e dados que gerassem insights no Dashboard interativo.
 
 **5 - GA4 Report**
